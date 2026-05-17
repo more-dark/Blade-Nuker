@@ -62,7 +62,7 @@ python3 main.py
 ### This Command is only for Proxies: 
 
 ```
-sudo python3 d-proxy.py.py
+sudo python3 d-proxy.py
 ```
 
    ✅ The tool will now start running.
