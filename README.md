@@ -18,12 +18,12 @@
 # 📌 REQUIREMENTS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• Windows OS (7/10/11)
-• Kali Linux
-• Termux
-• Internet connection
-• Discord account (for tokens)
-• Python 3.8 or higher (if not already installed)
+• <li>Windows OS (7/10/11)</li>
+• <li>Kali Linux</li>
+• <li>Termux</li>
+• </li>Internet connection</li>
+• </li>Discord account (for tokens)</li>
+• </li>Python 3.8 or higher (if not already installed)</li>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
