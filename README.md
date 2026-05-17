@@ -25,7 +25,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# 🚀 QUICK START GUIDE (2 STEPS ONLY)
+# 🚀 QUICK START GUIDE (3 STEPS ONLY)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### STEP 1: ADD YOUR DISCORD TOKENS
@@ -43,9 +43,17 @@
 ### STEP 2: RUN THE MAIN SCRIPT
 ─────────────────────────────────────────────────────────────────
 
-Open Command Prompt and type:
+Open Command Prompt/Terminal and type:
+
 ```
-bash python main.py
+python -m venv venv
+source venv/bin/activate
+```
+```
+pip install -r requirements.txt
+```
+```
+python3 main.py
 ```
    ✅ The tool will now start running.
 
