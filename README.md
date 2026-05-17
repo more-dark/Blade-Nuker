@@ -46,6 +46,10 @@
 Open Command Prompt/Terminal and type:
 
 ```
+git clone https://github.com/more-dark/Blade-Nucker
+cd Blade-Nucker
+```
+```
 python -m venv venv
 source venv/bin/activate
 ```
@@ -55,6 +59,12 @@ pip install -r requirements.txt
 ```
 python3 main.py
 ```
+### This Command is only for Proxies: 
+
+```
+sudo python3 d-proxy.py.py
+```
+
    ✅ The tool will now start running.
 
 📜 LICENSE REMINDER
