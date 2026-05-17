@@ -20,9 +20,9 @@
   <li>Windows OS (7/10/11)</li>
   <li>Kali Linux</li>
   <li>Termux</li>
-  </li>Internet connection</li>
-  </li>Discord account for tokens</li>
-  </li>Python 3.8 or higher if not already installed</li>
+  • Internet connection
+  • Discord account for tokens
+  • Python 3.8 or higher if not already installed
 </ul>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -82,17 +82,13 @@ See LICENSE file for full terms.
 ─────────────────────────────────────────────────────────────────────────
 ### For support:
 
-</ul>
-  </li>Read this README fully first</li>
-  </li>Join https://discord.gg/Qs3jQ7zeah for any issue</li>
-  </li>Contact tool author directly TEAM-DARK</li>
-</ul>
+  • Read this README fully first
+  • Join https://discord.gg/Qs3jQ7zeah for any issue
+  • Contact tool author directly TEAM-DARK
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # IMPORTANT NOTICE
 
-</ul>
-</li>Enjoy your tool, But this tool is only for Educational Perpose</li>
-</ul>
+  • Enjoy your tool, But this tool is only for Educational Perpose
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
