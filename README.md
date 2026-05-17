@@ -19,13 +19,26 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 • Windows OS (7/10/11)
+• Kali Linux
+• Termux
 • Internet connection
 • Discord account (for tokens)
 • Python 3.8 or higher (if not already installed)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# 🚀 QUICK START GUIDE (3 STEPS ONLY)
+## This Tool Tested On :
+<ul>
+  <li>Kali Linux</li>
+  <li>Termux</li>
+  <li>MacOS</li>
+  <li>Ubuntu</li>
+  <li>Windows (WSL)</li>
+</ul>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🚀 QUICK START GUIDE (2 STEPS ONLY)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### STEP 1: ADD YOUR DISCORD TOKENS
