@@ -20,9 +20,9 @@
   <li>Windows OS (7/10/11)</li>
   <li>Kali Linux</li>
   <li>Termux</li>
-  • Internet connection
-  • Discord account for tokens
-  • Python 3.8 or higher if not already installed
+• Internet connection
+• Discord account for tokens
+• Python 3.8 or higher if not already installed
 </ul>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
