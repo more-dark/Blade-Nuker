@@ -47,8 +47,8 @@
 Open Command Prompt/Terminal and type:
 
 ```
-git clone https://github.com/more-dark/Blade-Nucker
-cd Blade-Nucker
+git clone https://github.com/more-dark/Blade-Nuker
+cd Blade-Nuker
 ```
 ```
 python -m venv venv
