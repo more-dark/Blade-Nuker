@@ -43,11 +43,10 @@
 ### STEP 2: RUN THE MAIN SCRIPT
 ─────────────────────────────────────────────────────────────────
 
-   Double-click on:  main.py
-
-   OR open Command Prompt and type:
-   python main.py
-
+Open Command Prompt and type:
+```
+bash python main.py
+```
    ✅ The tool will now start running.
 
 📜 LICENSE REMINDER
