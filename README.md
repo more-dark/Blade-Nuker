@@ -46,6 +46,8 @@
 
 Open Command Prompt/Terminal and type:
 
+### This Command is only for Linux Users:
+
 ```
 git clone https://github.com/more-dark/Blade-Nuker
 cd Blade-Nuker
@@ -54,14 +56,24 @@ cd Blade-Nuker
 python -m venv venv
 source venv/bin/activate
 ```
+```
+pip install -r requirements.txt
+```
+```
+python3 main.py
+```
 ### This Command is only for Windows Users:
 
+```
+git clone https://github.com/more-dark/Blade-Nuker
+cd Blade-Nuker
+```
 ```
 python -m venv venv
 venv\Scripts\activate
 ```
 ```
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 ```
 python3 main.py
