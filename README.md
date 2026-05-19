@@ -54,6 +54,12 @@ cd Blade-Nuker
 python -m venv venv
 source venv/bin/activate
 ```
+### This Command is only for Windows Users:
+
+```
+python -m venv venv
+venv\Scripts\activate
+```
 ```
 pip install -r requirements.txt
 ```
