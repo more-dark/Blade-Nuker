@@ -87,24 +87,23 @@ sudo python3 d-proxy.py
    ✅ The tool will now start running.
 
 ### 📜 LICENSE REMINDER
-─────────────────────────────────────────────────────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-This tool is EXCLUSIVELY for Pentesting.
+This tool is EXCLUSIVELY for Chat Spaming
 ❌ No one may change, edit, or modify this tool.
-❌ No redistribution or sharing allowed.
-✅ Use freely — but only for Pentesting.
+❌ No redistribution.
+✅ sharing allowed.
+✅ Use freely — but only as-is.
 
 See LICENSE file for full terms.
 
-### 📞 SUPPORT
-─────────────────────────────────────────────────────────────────────────
-### For support:
+## 📞 SUPPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  • Read this README fully first
-  • Join https://discord.gg/Qs3jQ7zeah for any issue
-  • Contact tool author directly TEAM-DARK
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+For BLADE support:
+• Read this README fully first
+• Join [https://discord.gg/bUPqSj8VzR](https://discord.gg/bUPqSj8VzR) for any issue
+• Contact tool author directly (ROOT & BLADE)
 # IMPORTANT NOTICE
 
   • Enjoy your tool, But this tool is only for Educational Perpose
