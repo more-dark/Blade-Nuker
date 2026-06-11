@@ -76,7 +76,7 @@ source venv/Scripts/activate
 python -m pip install -r requirements.txt
 ```
 ```
-python3 main.py
+python main.py
 ```
 ### This Command is only for Proxies: 
 
